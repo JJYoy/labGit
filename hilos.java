@@ -6,10 +6,12 @@ public class hilos {
 
         public static void main(String[] args) throws IOException {
     String nombre  = "Yan";
+    String apellido = "Guzman";
     BufferedReader Escanear = new BufferedReader(new InputStreamReader(System.in));
 
     System.out.println("\nIngrese el nombre:");
     System.out.println(nombre);
+        System.out.println(apellidos);
     
         }
 }
